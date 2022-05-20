@@ -1,0 +1,25 @@
+﻿Bivalve,mode,DUI,Subclass,Order,Family
+ Panopea abrupta,Hermaphroditic,No DUI,Heterodonta,Adapedonta,Hiatellidae
+ Hiatula acuta,Gonochoristic,No DUI,Heterodonta,Cardiida,Psammobiidae
+ Corbicula fluminea,Hermaphroditic,No DUI,Heterodonta,Venerida,Cyrenidae
+ Ruditapes philippinarum,Gonochoristic,DUI,Heterodonta,Venerida,Veneridae
+ Neotrigonia margaritacea,Gonochoristic,DUI,Palaeoheterodonta,Trigoniida,Trigoniidae
+ Aculamprotula scripta,Gonochoristic,No DUI,Palaeoheterodonta,Unionoida,Unionoidae
+ Anodonta cygnea,Hermaphroditic,No DUI,Palaeoheterodonta,Unionoida,Unionoidae
+ Bathymodiolus platifrons,Gonochoristic,No DUI,Pteriomorphia,Mytilida,Mytilidae
+ Modiolus philippinarum,Gonochoristic,DUI,Pteriomorphia,Mytilida,Mytilidae
+ Saccostrea glomerata,Hermaphroditic,No DUI,Pteriomorphia,Ostreida,Ostreidae
+ Argopecten irradians,Hermaphroditic,No DUI,Pteriomorphia,Pectinida,Pectinidae
+ Mytilus galloprovincialis,Gonochoristic,DUI,Pteriomorphia,Mytilida,Mytilidae
+ Semimytilus algosus,Hermaphroditic,DUI,Pteriomorphia,Mytilida,Mytilidae
+ Solemya velum,Gonochoristic,No DUI,Protobranchia,Solemyida,Solemyidae
+ Conus loroisii,Gonochoristic,No DUI,Caenogastropoda,Neogastropoda,Conidae
+ Nautilus pompilius,Gonochoristic,No DUI,Nautiloidea,Nautilida,Nautilidae
+ Cumberlandia monodonta,Gonochoristic,DUI,Palaeoheterodonta,Unionoida,Margaritiferidae
+ Unio elongatulus,Gonochoristic,DUI,Palaeoheterodonta,Unionoida,Unionoidae
+ Solenaia rivularis,Gonochoristic,DUI,Palaeoheterodonta,Unionoida,Unionoidae
+ Limecola balthica,Gonochoristic,DUI,Heterodonta,Cardiida,Tellinidae
+ Macridiscus melanaegis,Gonochoristic,DUI,Heterodonta,Venerida,Veneridae
+ Ennucula cumingii,Gonochoristic,No DUI,Protobranchia,Nuculida,Nuculidae
+ Acila castrensis,Gonochoristic,No DUI,Protobranchia,Nuculida,Nuculidae
+ Nucula ulcata,Gonochoristic,No DUI,Protobranchia,Nuculida,Nuculidae
