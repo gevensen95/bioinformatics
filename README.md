@@ -8,4 +8,4 @@ The second tutorial is an introduction to phylogenetics. In this tutorial, we us
 Download the entire Phylogenetics_Tutorial folder. You can open the .html file see and go through the tutorial. I've also included a .md file so you can see the tutorial directly in GitHub.
 
 # RNAseq
-Stay tuned for a third tutorial on RNAseq where we will analyze sex-specific expression patterns in _Mytilus edulis_ from Canada. 
+The third tutorial is an introduction to RNASeq. Here, we use gene count data collected from 12 male and 12 female Mytilus edulis animals. You will determien differentially expressed genes, run PCA, create a heatmap, and conduct GO and KEGG enrichment. Download the entire RNASeq_Tutorial folder. The gene_go.csv file is too large for GitHub, so make sure to uncompress it.  
